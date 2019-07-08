@@ -1,6 +1,6 @@
 # RfcommSampleCpp
 - server sample
-    RfcommSampleCSharp.sln  
+    RfcommSampleCpp.sln  
     Windows10  
     UWP  
     C++/CX    
